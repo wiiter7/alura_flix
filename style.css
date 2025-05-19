@@ -36,7 +36,9 @@ font-weight: 400;
 .container_botao {
     background-color: var(--botao-azul);
     border-radius: 5px;
-
+    color: var(--branco-primcipal);
+    display: block;
+    text-decoration: none;
 }
 
 .botao_secundario{
