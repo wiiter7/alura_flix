@@ -1,1 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
+:root {
+--branco-primcipal:#FFFFFF;
+--cinza-secundario:#C0C0C0;
+--botao-azul:#167F7;
+--cor-de-fundo:#00030C;
+}
+
+body{
+background-color: var(--cor-de-fundo);
+color:var(--branco-principal)
+}
