@@ -57,3 +57,40 @@ font-weight: 400;
     font-size: 28px;
     font-weight: 700;
 }
+
+.container_imagem{
+    margin: 1em 0 2em 0;
+}
+
+.container_caixa{
+    margin: 0 6em;
+}
+
+.secundario_imagem{
+    width: 80%;
+}
+
+.secundario{
+    align-items: center;
+    margin: 0 10 em;
+}
+
+.descricao_titulo{
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-primcipal);
+    margin-bottom: 0.1em;
+}
+
+.descripcao_texto{
+    color: var(--cinza-secundario);
+}
+
+.secundario_botao{
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container_descricao{
+    padding: 2em;
+}
